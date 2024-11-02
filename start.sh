@@ -1,0 +1,1 @@
+pm2 start npm --name "my-blog" -- run start
